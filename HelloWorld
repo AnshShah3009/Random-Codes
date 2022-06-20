@@ -5,6 +5,7 @@
 # 1 "/usr/include/stdc-predef.h" 1 3 4
 # 1 "<command-line>" 2
 # 1 "/home/fubuki/Documents/Random Codes/HelloWorld.cpp"
+
 # 1 "/usr/include/c++/9/iostream" 1 3
 # 36 "/usr/include/c++/9/iostream" 3
        
@@ -28634,12 +28635,11 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 2 "/home/fubuki/Documents/Random Codes/HelloWorld.cpp" 2
+# 3 "/home/fubuki/Documents/Random Codes/HelloWorld.cpp" 2
 
-# 2 "/home/fubuki/Documents/Random Codes/HelloWorld.cpp"
-using namespace std;
 
-void main()
-{
-    cout << "Hello World";
+# 4 "/home/fubuki/Documents/Random Codes/HelloWorld.cpp"
+int main() {
+    std::cout << "Hello World!";
+    return 0;
 }

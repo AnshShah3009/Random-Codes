@@ -28637,10 +28637,8 @@ namespace std __attribute__ ((__visibility__ ("default")))
 # 2 "/home/fubuki/Documents/Random Codes/Test.cpp" 2
 
 # 2 "/home/fubuki/Documents/Random Codes/Test.cpp"
-namespace std;
+using namespace std
 
 void main()
-{
-    int[a] = {10, 12, 21};
-    cout << a;
+{}
 }

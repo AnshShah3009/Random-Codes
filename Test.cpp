@@ -1,8 +1,6 @@
 #include <iostream>
-namespace std;
+using namespace std
 
 void main()
-{
-    int[a] = {10, 12, 21};
-    cout << a;
+{}
 }
