@@ -28636,9 +28636,8 @@ namespace std __attribute__ ((__visibility__ ("default")))
 }
 # 2 "/home/fubuki/Documents/Random Codes/Test.cpp" 2
 
-# 2 "/home/fubuki/Documents/Random Codes/Test.cpp"
-using namespace std
 
-void main()
-{}
+# 3 "/home/fubuki/Documents/Random Codes/Test.cpp"
+void main(){
+
 }
